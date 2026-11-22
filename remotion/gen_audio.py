@@ -43,7 +43,14 @@ VIDEOS = {
   ("Charts traders love", "Millions of traders use the same charting platform. TradingView.", 0.6),
   ("Indicators & tools", "Hundreds of indicators, drawing tools, and multi chart layouts, for crypto, stocks, forex, and gold.", 0.6),
   ("Price alerts", "Set price alerts, and get notified on your phone, even when you're away.", 0.6),
-  ("$15 off your first plan", "There's a free plan. And new users who upgrade through our link get fifteen dollars off. Terms apply.", 0.8),
+  ("Free plan + more tools", "Start with the free plan, and upgrade when you need more tools. Check the current offer through our link.", 0.8),
+  ("TradingView", "Link in the bio, and on Telegram.", 2.8),
+ ],
+ "tradingview_bf": [
+  ("Charts traders love", "Millions of traders use the same charting platform. TradingView.", 0.6),
+  ("Indicators & tools", "Hundreds of indicators, drawing tools, and multi chart layouts, for crypto, stocks, forex, and gold.", 0.6),
+  ("Price alerts", "Set price alerts, and get notified on your phone, even when you're away.", 0.6),
+  ("Black Friday sale", "TradingView's yearly Black Friday sale is here. See the current deals through our link.", 0.8),
   ("TradingView", "Link in the bio, and on Telegram.", 2.8),
  ]}
 def synth(t):

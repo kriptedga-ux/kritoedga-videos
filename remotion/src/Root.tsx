@@ -28,7 +28,8 @@ export const RemotionRoot: React.FC = () => {
       <Composition id="BybitSignup" component={BybitVideo} durationInFrames={bybitFrames("signup")} fps={30} width={1080} height={1920} defaultProps={{ kind: "signup" as const }} />
       <Composition id="BybitTradfi" component={BybitVideo} durationInFrames={bybitFrames("tradfi")} fps={30} width={1080} height={1920} defaultProps={{ kind: "tradfi" as const }} />
       <Composition id="Promo" component={PromoVideo} durationInFrames={promoFrames} fps={30} width={1080} height={1920} />
-      <Composition id="TradingView" component={TVVideo} durationInFrames={tvFrames} fps={30} width={1080} height={1920} />
+      <Composition id="TradingView" component={TVVideo} durationInFrames={tvFrames(false)} fps={30} width={1080} height={1920} defaultProps={{ bf: false }} />
+      <Composition id="TradingViewBF" component={TVVideo} durationInFrames={tvFrames(true)} fps={30} width={1080} height={1920} defaultProps={{ bf: true }} />
     </>
   );
 };

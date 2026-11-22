@@ -1,0 +1,446 @@
+{
+ "scenes": [
+  {
+   "headline": "Charts traders love",
+   "line": "Millions of traders use the same charting platform. TradingView.",
+   "frames": 113,
+   "captions": [
+    {
+     "text": " Millions",
+     "startMs": 400,
+     "endMs": 783,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " of",
+     "startMs": 783,
+     "endMs": 911,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " traders",
+     "startMs": 911,
+     "endMs": 1251,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " use",
+     "startMs": 1251,
+     "endMs": 1422,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 1422,
+     "endMs": 1592,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " same",
+     "startMs": 1592,
+     "endMs": 1805,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " charting",
+     "startMs": 1805,
+     "endMs": 2188,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " platform.",
+     "startMs": 2188,
+     "endMs": 2614,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " TradingView.",
+     "startMs": 2614,
+     "endMs": 3167,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "Indicators & tools",
+   "line": "Hundreds of indicators, drawing tools, and multi chart layouts, for crypto, stocks, forex, and gold.",
+   "frames": 188,
+   "captions": [
+    {
+     "text": " Hundreds",
+     "startMs": 400,
+     "endMs": 871,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " of",
+     "startMs": 871,
+     "endMs": 1028,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " indicators,",
+     "startMs": 1028,
+     "endMs": 1655,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " drawing",
+     "startMs": 1655,
+     "endMs": 2074,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " tools,",
+     "startMs": 2074,
+     "endMs": 2440,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 2440,
+     "endMs": 2649,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " multi",
+     "startMs": 2649,
+     "endMs": 2963,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " chart",
+     "startMs": 2963,
+     "endMs": 3277,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " layouts,",
+     "startMs": 3277,
+     "endMs": 3748,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " for",
+     "startMs": 3748,
+     "endMs": 3957,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " crypto,",
+     "startMs": 3957,
+     "endMs": 4375,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " stocks,",
+     "startMs": 4375,
+     "endMs": 4794,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " forex,",
+     "startMs": 4794,
+     "endMs": 5160,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 5160,
+     "endMs": 5369,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " gold.",
+     "startMs": 5369,
+     "endMs": 5683,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "Price alerts",
+   "line": "Set price alerts, and get notified on your phone, even when you're away.",
+   "frames": 122,
+   "captions": [
+    {
+     "text": " Set",
+     "startMs": 400,
+     "endMs": 568,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " price",
+     "startMs": 568,
+     "endMs": 821,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " alerts,",
+     "startMs": 821,
+     "endMs": 1157,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 1157,
+     "endMs": 1325,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " get",
+     "startMs": 1325,
+     "endMs": 1494,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " notified",
+     "startMs": 1494,
+     "endMs": 1872,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " on",
+     "startMs": 1872,
+     "endMs": 1998,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " your",
+     "startMs": 1998,
+     "endMs": 2209,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " phone,",
+     "startMs": 2209,
+     "endMs": 2503,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " even",
+     "startMs": 2503,
+     "endMs": 2713,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " when",
+     "startMs": 2713,
+     "endMs": 2924,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " you're",
+     "startMs": 2924,
+     "endMs": 3218,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " away.",
+     "startMs": 3218,
+     "endMs": 3470,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "Black Friday sale",
+   "line": "TradingView's yearly Black Friday sale is here. See the current deals through our link.",
+   "frames": 152,
+   "captions": [
+    {
+     "text": " TradingView's",
+     "startMs": 400,
+     "endMs": 1013,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " yearly",
+     "startMs": 1013,
+     "endMs": 1320,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Black",
+     "startMs": 1320,
+     "endMs": 1582,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Friday",
+     "startMs": 1582,
+     "endMs": 1889,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " sale",
+     "startMs": 1889,
+     "endMs": 2108,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " is",
+     "startMs": 2108,
+     "endMs": 2239,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " here.",
+     "startMs": 2239,
+     "endMs": 2502,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " See",
+     "startMs": 2502,
+     "endMs": 2677,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 2677,
+     "endMs": 2852,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " current",
+     "startMs": 2852,
+     "endMs": 3202,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " deals",
+     "startMs": 3202,
+     "endMs": 3465,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " through",
+     "startMs": 3465,
+     "endMs": 3815,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " our",
+     "startMs": 3815,
+     "endMs": 3991,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " link.",
+     "startMs": 3991,
+     "endMs": 4253,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "TradingView",
+   "line": "Link in the bio, and on Telegram.",
+   "frames": 140,
+   "captions": [
+    {
+     "text": " Link",
+     "startMs": 400,
+     "endMs": 617,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " in",
+     "startMs": 617,
+     "endMs": 748,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 748,
+     "endMs": 922,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " bio,",
+     "startMs": 922,
+     "endMs": 1139,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 1139,
+     "endMs": 1313,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " on",
+     "startMs": 1313,
+     "endMs": 1443,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Telegram.",
+     "startMs": 1443,
+     "endMs": 1878,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  }
+ ],
+ "total": 715
+}

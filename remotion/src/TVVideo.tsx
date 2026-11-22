@@ -6,6 +6,7 @@ import React from "react";
 import { AbsoluteFill, Easing, interpolate, staticFile, useCurrentFrame } from "remotion";
 import { ByBackground, candles, inAt, PhoneFrame } from "./BybitVideo";
 import tvData from "./data/tradingview.json";
+import tvBfData from "./data/tradingview_bf.json";
 import { Captions, FONT, GREEN, Header, Headline, SceneData, YELLOW } from "./ui";
 
 const T = 12;
@@ -146,10 +147,10 @@ const AlertPhone: React.FC = () => {
   );
 };
 
-const Coupon: React.FC = () => {
+const Offer: React.FC<{ bf: boolean }> = ({ bf }) => {
   const f = useCurrentFrame();
   return (
-    <div style={{ position: "absolute", top: 560, left: 0, right: 0, display: "flex", flexDirection: "column", alignItems: "center", gap: 40, fontFamily: FONT }}>
+    <div style={{ position: "absolute", top: 560, left: 0, right: 0, display: "flex", flexDirection: "column", alignItems: "center", gap: 44, fontFamily: FONT }}>
       <div style={{ ...inAt(f, 6), display: "flex", gap: 24 }}>
         <div style={{ background: "rgba(255,255,255,0.08)", border: "2px solid rgba(255,255,255,0.25)", borderRadius: 26, padding: "22px 40px", textAlign: "center", color: "white" }}>
           <div style={{ fontSize: 30, opacity: 0.7 }}>Basic</div>
@@ -157,7 +158,7 @@ const Coupon: React.FC = () => {
         </div>
         <div style={{ background: "rgba(41,98,255,0.25)", border: `3px solid ${BLUE}`, borderRadius: 26, padding: "22px 40px", textAlign: "center", color: "white" }}>
           <div style={{ fontSize: 30, opacity: 0.7 }}>Paid plans</div>
-          <div style={{ fontSize: 50, fontWeight: 700 }}>Pro & up</div>
+          <div style={{ fontSize: 50, fontWeight: 700 }}>More tools</div>
         </div>
       </div>
       <div
@@ -165,31 +166,31 @@ const Coupon: React.FC = () => {
           ...inAt(f, 40),
           rotate: `${interpolate(f, [40, 60], [-8, -3], { ...cl, easing: ease })}deg`,
           scale: interpolate(f, [40, 60], [0.6, 1], { ...cl, easing: ease }),
-          background: YELLOW,
-          color: "#0b1124",
+          background: bf ? "#0b0b0f" : YELLOW,
+          color: bf ? YELLOW : "#0b1124",
           borderRadius: 30,
-          padding: "30px 70px",
+          padding: "30px 60px",
           textAlign: "center",
-          border: "6px dashed rgba(11,17,36,0.4)",
+          border: bf ? `6px solid ${YELLOW}` : "6px dashed rgba(11,17,36,0.4)",
         }}
       >
-        <div style={{ fontSize: 130, fontWeight: 700, lineHeight: 1 }}>$15 OFF</div>
-        <div style={{ fontSize: 34, fontWeight: 700, marginTop: 8 }}>for new users · first paid plan</div>
+        <div style={{ fontSize: bf ? 120 : 96, fontWeight: 700, lineHeight: 1 }}>{bf ? "BLACK FRIDAY" : "CURRENT OFFER"}</div>
+        <div style={{ fontSize: 36, fontWeight: 700, marginTop: 10, color: bf ? "white" : "#0b1124" }}>{bf ? "Yearly sale · limited time" : "via our link"}</div>
       </div>
       <div style={{ ...inAt(f, 70), fontSize: 30, color: "rgba(255,255,255,0.7)", textAlign: "center", padding: "0 120px" }}>
-        New account via our link, upgrade within 3 months. Terms apply.
+        Prices and discounts are shown on TradingView. Terms apply.
       </div>
     </div>
   );
 };
 
-const CTA: React.FC = () => {
+const CTA: React.FC<{ bf: boolean }> = ({ bf }) => {
   const f = useCurrentFrame();
   const pulse = 1 + 0.035 * Math.sin(Math.max(0, f - 30) / 5);
   return (
     <div style={{ position: "absolute", top: 420, left: 80, right: 80, textAlign: "center", fontFamily: FONT }}>
       <div style={{ ...inAt(f, 4), fontSize: 110, fontWeight: 700, color: "white" }}>TradingView</div>
-      <div style={{ ...inAt(f, 12), fontSize: 50, fontWeight: 700, color: YELLOW, marginTop: 6 }}>$15 off via our link</div>
+      <div style={{ ...inAt(f, 12), fontSize: 50, fontWeight: 700, color: YELLOW, marginTop: 6 }}>{bf ? "Black Friday deals via our link" : "Current offer via our link"}</div>
       <div style={{ ...inAt(f, 20), display: "flex", justifyContent: "center", marginTop: 44 }}>
         <div style={{ background: BLUE, color: "white", fontWeight: 700, fontSize: 50, padding: "20px 46px", borderRadius: 50, scale: pulse }}>Link in bio</div>
       </div>
@@ -210,15 +211,15 @@ const Scene: React.FC<{ d: SceneData; children?: React.ReactNode; hideHeadline?:
   </AbsoluteFill>
 );
 
-export const TVVideo: React.FC = () => {
-  const data = tvData.scenes as SceneData[];
+export const TVVideo: React.FC<{ bf: boolean }> = ({ bf }) => {
+  const data = (bf ? tvBfData : tvData).scenes as SceneData[];
   const dur = (i: number) => data[i].frames + (i < data.length - 1 ? T : 0);
   const sc = [
     <Scene key={0} d={data[0]} headlineTop={330}><Hook /></Scene>,
     <Scene key={1} d={data[1]} headlineTop={260}><Tools /></Scene>,
     <Scene key={2} d={data[2]} headlineTop={260}><AlertPhone /></Scene>,
-    <Scene key={3} d={data[3]} headlineTop={300} color={YELLOW}><Coupon /></Scene>,
-    <Scene key={4} d={data[4]} hideHeadline><CTA /></Scene>,
+    <Scene key={3} d={data[3]} headlineTop={300} color={YELLOW}><Offer bf={bf} /></Scene>,
+    <Scene key={4} d={data[4]} hideHeadline><CTA bf={bf} /></Scene>,
   ];
   const pres = [slide({ direction: "from-right" }), fade(), slide({ direction: "from-bottom" }), fade()];
   return (
@@ -234,11 +235,11 @@ export const TVVideo: React.FC = () => {
         ))}
       </TransitionSeries>
       <div style={{ position: "absolute", top: 1530, left: 80, right: 80, textAlign: "center", fontFamily: FONT, fontSize: 26, lineHeight: 1.35, color: "rgba(255,255,255,0.72)" }}>
-        #ad · TradingView referral link. $15 off applies to new users on their first paid plan; terms apply. Not investment advice.
+        #ad · TradingView partner link · Not investment advice.
       </div>
-      <Audio src={staticFile("tradingview_vo.wav")} />
+      <Audio src={staticFile(bf ? "tradingview_bf_vo.wav" : "tradingview_vo.wav")} />
     </AbsoluteFill>
   );
 };
 
-export const tvFrames = tvData.total;
+export const tvFrames = (bf: boolean) => (bf ? tvBfData : tvData).total;
