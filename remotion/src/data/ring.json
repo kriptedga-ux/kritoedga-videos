@@ -1,0 +1,460 @@
+{
+ "scenes": [
+  {
+   "headline": "Your crypto. On your finger.",
+   "line": "What if your crypto wallet was a ring?",
+   "frames": 84,
+   "captions": [
+    {
+     "text": " What",
+     "startMs": 400,
+     "endMs": 592,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " if",
+     "startMs": 592,
+     "endMs": 707,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " your",
+     "startMs": 707,
+     "endMs": 899,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " crypto",
+     "startMs": 899,
+     "endMs": 1168,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " wallet",
+     "startMs": 1168,
+     "endMs": 1436,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " was",
+     "startMs": 1436,
+     "endMs": 1590,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 1590,
+     "endMs": 1667,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " ring?",
+     "startMs": 1667,
+     "endMs": 1897,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "Tap to sign",
+   "line": "Tangem Ring is a hardware wallet. Tap it to your phone to approve a transaction.",
+   "frames": 146,
+   "captions": [
+    {
+     "text": " Tangem",
+     "startMs": 400,
+     "endMs": 734,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Ring",
+     "startMs": 734,
+     "endMs": 972,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " is",
+     "startMs": 972,
+     "endMs": 1115,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 1115,
+     "endMs": 1210,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " hardware",
+     "startMs": 1210,
+     "endMs": 1639,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " wallet.",
+     "startMs": 1639,
+     "endMs": 2020,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Tap",
+     "startMs": 2020,
+     "endMs": 2211,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " it",
+     "startMs": 2211,
+     "endMs": 2354,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " to",
+     "startMs": 2354,
+     "endMs": 2497,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " your",
+     "startMs": 2497,
+     "endMs": 2735,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " phone",
+     "startMs": 2735,
+     "endMs": 3021,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " to",
+     "startMs": 3021,
+     "endMs": 3164,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " approve",
+     "startMs": 3164,
+     "endMs": 3545,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 3545,
+     "endMs": 3641,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " transaction.",
+     "startMs": 3641,
+     "endMs": 4260,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "No battery. No cables.",
+   "line": "No battery, no cables, and it's water resistant.",
+   "frames": 103,
+   "captions": [
+    {
+     "text": " No",
+     "startMs": 400,
+     "endMs": 549,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " battery,",
+     "startMs": 549,
+     "endMs": 996,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " no",
+     "startMs": 996,
+     "endMs": 1145,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " cables,",
+     "startMs": 1145,
+     "endMs": 1543,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 1543,
+     "endMs": 1742,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " it's",
+     "startMs": 1742,
+     "endMs": 1990,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " water",
+     "startMs": 1990,
+     "endMs": 2288,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " resistant.",
+     "startMs": 2288,
+     "endMs": 2835,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "Ring + backup cards",
+   "line": "It comes with backup cards, so if you lose the ring, you can still restore access.",
+   "frames": 141,
+   "captions": [
+    {
+     "text": " It",
+     "startMs": 400,
+     "endMs": 533,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " comes",
+     "startMs": 533,
+     "endMs": 800,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " with",
+     "startMs": 800,
+     "endMs": 1022,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " backup",
+     "startMs": 1022,
+     "endMs": 1333,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " cards,",
+     "startMs": 1333,
+     "endMs": 1644,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " so",
+     "startMs": 1644,
+     "endMs": 1777,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " if",
+     "startMs": 1777,
+     "endMs": 1910,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " you",
+     "startMs": 1910,
+     "endMs": 2088,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " lose",
+     "startMs": 2088,
+     "endMs": 2310,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 2310,
+     "endMs": 2488,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " ring,",
+     "startMs": 2488,
+     "endMs": 2754,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " you",
+     "startMs": 2754,
+     "endMs": 2932,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " can",
+     "startMs": 2932,
+     "endMs": 3110,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " still",
+     "startMs": 3110,
+     "endMs": 3376,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " restore",
+     "startMs": 3376,
+     "endMs": 3732,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " access.",
+     "startMs": 3732,
+     "endMs": 4087,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "Tangem Ring",
+   "line": "Check it out with our link. It's in the bio, and on Telegram.",
+   "frames": 162,
+   "captions": [
+    {
+     "text": " Check",
+     "startMs": 400,
+     "endMs": 632,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " it",
+     "startMs": 632,
+     "endMs": 748,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " out",
+     "startMs": 748,
+     "endMs": 903,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " with",
+     "startMs": 903,
+     "endMs": 1097,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " our",
+     "startMs": 1097,
+     "endMs": 1251,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " link.",
+     "startMs": 1251,
+     "endMs": 1484,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " It's",
+     "startMs": 1484,
+     "endMs": 1677,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " in",
+     "startMs": 1677,
+     "endMs": 1793,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 1793,
+     "endMs": 1948,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " bio,",
+     "startMs": 1948,
+     "endMs": 2141,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 2141,
+     "endMs": 2296,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " on",
+     "startMs": 2296,
+     "endMs": 2412,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Telegram.",
+     "startMs": 2412,
+     "endMs": 2799,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  }
+ ],
+ "total": 636
+}

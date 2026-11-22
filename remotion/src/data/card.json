@@ -1,0 +1,523 @@
+{
+ "scenes": [
+  {
+   "headline": "Not your keys, not your coins.",
+   "line": "Not your keys, not your coins.",
+   "frames": 76,
+   "captions": [
+    {
+     "text": " Not",
+     "startMs": 400,
+     "endMs": 571,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " your",
+     "startMs": 571,
+     "endMs": 784,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " keys,",
+     "startMs": 784,
+     "endMs": 1040,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " not",
+     "startMs": 1040,
+     "endMs": 1211,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " your",
+     "startMs": 1211,
+     "endMs": 1424,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " coins.",
+     "startMs": 1424,
+     "endMs": 1722,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "A hardware wallet in a card",
+   "line": "Tangem is a hardware wallet the size of a bank card. Your private keys stay offline, on the chip.",
+   "frames": 165,
+   "captions": [
+    {
+     "text": " Tangem",
+     "startMs": 400,
+     "endMs": 723,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " is",
+     "startMs": 723,
+     "endMs": 861,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 861,
+     "endMs": 953,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " hardware",
+     "startMs": 953,
+     "endMs": 1368,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " wallet",
+     "startMs": 1368,
+     "endMs": 1690,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 1690,
+     "endMs": 1874,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " size",
+     "startMs": 1874,
+     "endMs": 2105,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " of",
+     "startMs": 2105,
+     "endMs": 2243,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 2243,
+     "endMs": 2335,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " bank",
+     "startMs": 2335,
+     "endMs": 2565,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " card.",
+     "startMs": 2565,
+     "endMs": 2842,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Your",
+     "startMs": 2842,
+     "endMs": 3072,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " private",
+     "startMs": 3072,
+     "endMs": 3441,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " keys",
+     "startMs": 3441,
+     "endMs": 3671,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " stay",
+     "startMs": 3671,
+     "endMs": 3902,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " offline,",
+     "startMs": 3902,
+     "endMs": 4316,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " on",
+     "startMs": 4316,
+     "endMs": 4454,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 4454,
+     "endMs": 4639,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " chip.",
+     "startMs": 4639,
+     "endMs": 4915,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "Tap to sign",
+   "line": "Just tap the card to your phone to sign. No cables, no battery.",
+   "frames": 114,
+   "captions": [
+    {
+     "text": " Just",
+     "startMs": 400,
+     "endMs": 619,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " tap",
+     "startMs": 619,
+     "endMs": 794,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 794,
+     "endMs": 969,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " card",
+     "startMs": 969,
+     "endMs": 1188,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " to",
+     "startMs": 1188,
+     "endMs": 1319,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " your",
+     "startMs": 1319,
+     "endMs": 1538,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " phone",
+     "startMs": 1538,
+     "endMs": 1800,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " to",
+     "startMs": 1800,
+     "endMs": 1931,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " sign.",
+     "startMs": 1931,
+     "endMs": 2194,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " No",
+     "startMs": 2194,
+     "endMs": 2325,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " cables,",
+     "startMs": 2325,
+     "endMs": 2675,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " no",
+     "startMs": 2675,
+     "endMs": 2806,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " battery.",
+     "startMs": 2806,
+     "endMs": 3200,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "2 or 3 cards in a set",
+   "line": "A set has two or three cards, so you can keep a backup in a separate place.",
+   "frames": 124,
+   "captions": [
+    {
+     "text": " A",
+     "startMs": 400,
+     "endMs": 482,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " set",
+     "startMs": 482,
+     "endMs": 647,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " has",
+     "startMs": 647,
+     "endMs": 812,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " two",
+     "startMs": 812,
+     "endMs": 976,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " or",
+     "startMs": 976,
+     "endMs": 1100,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " three",
+     "startMs": 1100,
+     "endMs": 1347,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " cards,",
+     "startMs": 1347,
+     "endMs": 1635,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " so",
+     "startMs": 1635,
+     "endMs": 1758,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " you",
+     "startMs": 1758,
+     "endMs": 1923,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " can",
+     "startMs": 1923,
+     "endMs": 2088,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " keep",
+     "startMs": 2088,
+     "endMs": 2293,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 2293,
+     "endMs": 2376,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " backup",
+     "startMs": 2376,
+     "endMs": 2664,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " in",
+     "startMs": 2664,
+     "endMs": 2787,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 2787,
+     "endMs": 2870,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " separate",
+     "startMs": 2870,
+     "endMs": 3240,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " place.",
+     "startMs": 3240,
+     "endMs": 3528,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "10% off with our link",
+   "line": "Get ten percent off with our link. It's in the bio, and on Telegram.",
+   "frames": 177,
+   "captions": [
+    {
+     "text": " Get",
+     "startMs": 400,
+     "endMs": 569,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " ten",
+     "startMs": 569,
+     "endMs": 737,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " percent",
+     "startMs": 737,
+     "endMs": 1075,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " off",
+     "startMs": 1075,
+     "endMs": 1243,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " with",
+     "startMs": 1243,
+     "endMs": 1454,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " our",
+     "startMs": 1454,
+     "endMs": 1623,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " link.",
+     "startMs": 1623,
+     "endMs": 1876,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " It's",
+     "startMs": 1876,
+     "endMs": 2086,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " in",
+     "startMs": 2086,
+     "endMs": 2213,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 2213,
+     "endMs": 2382,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " bio,",
+     "startMs": 2382,
+     "endMs": 2592,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 2592,
+     "endMs": 2761,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " on",
+     "startMs": 2761,
+     "endMs": 2888,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Telegram.",
+     "startMs": 2888,
+     "endMs": 3309,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  }
+ ],
+ "total": 656
+}
