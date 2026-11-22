@@ -1,0 +1,474 @@
+{
+ "scenes": [
+  {
+   "headline": "Charts traders love",
+   "line": "Millions of traders use the same charting platform. TradingView.",
+   "frames": 115,
+   "captions": [
+    {
+     "text": " Millions",
+     "startMs": 400,
+     "endMs": 793,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " of",
+     "startMs": 793,
+     "endMs": 924,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " traders",
+     "startMs": 924,
+     "endMs": 1274,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " use",
+     "startMs": 1274,
+     "endMs": 1449,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 1449,
+     "endMs": 1624,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " same",
+     "startMs": 1624,
+     "endMs": 1842,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " charting",
+     "startMs": 1842,
+     "endMs": 2235,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " platform.",
+     "startMs": 2235,
+     "endMs": 2672,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " TradingView.",
+     "startMs": 2672,
+     "endMs": 3240,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "Indicators & tools",
+   "line": "Hundreds of indicators, drawing tools, and multi chart layouts, for crypto, stocks, forex, and gold.",
+   "frames": 181,
+   "captions": [
+    {
+     "text": " Hundreds",
+     "startMs": 400,
+     "endMs": 850,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " of",
+     "startMs": 850,
+     "endMs": 1000,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " indicators,",
+     "startMs": 1000,
+     "endMs": 1600,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " drawing",
+     "startMs": 1600,
+     "endMs": 2000,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " tools,",
+     "startMs": 2000,
+     "endMs": 2350,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 2350,
+     "endMs": 2550,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " multi",
+     "startMs": 2550,
+     "endMs": 2850,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " chart",
+     "startMs": 2850,
+     "endMs": 3150,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " layouts,",
+     "startMs": 3150,
+     "endMs": 3600,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " for",
+     "startMs": 3600,
+     "endMs": 3800,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " crypto,",
+     "startMs": 3800,
+     "endMs": 4200,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " stocks,",
+     "startMs": 4200,
+     "endMs": 4600,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " forex,",
+     "startMs": 4600,
+     "endMs": 4950,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 4950,
+     "endMs": 5150,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " gold.",
+     "startMs": 5150,
+     "endMs": 5450,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "Price alerts",
+   "line": "Set price alerts, and get notified on your phone, even when you're away.",
+   "frames": 135,
+   "captions": [
+    {
+     "text": " Set",
+     "startMs": 400,
+     "endMs": 591,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " price",
+     "startMs": 591,
+     "endMs": 878,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " alerts,",
+     "startMs": 878,
+     "endMs": 1261,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 1261,
+     "endMs": 1452,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " get",
+     "startMs": 1452,
+     "endMs": 1644,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " notified",
+     "startMs": 1644,
+     "endMs": 2074,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " on",
+     "startMs": 2074,
+     "endMs": 2218,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " your",
+     "startMs": 2218,
+     "endMs": 2457,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " phone,",
+     "startMs": 2457,
+     "endMs": 2792,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " even",
+     "startMs": 2792,
+     "endMs": 3031,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " when",
+     "startMs": 3031,
+     "endMs": 3270,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " you're",
+     "startMs": 3270,
+     "endMs": 3605,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " away.",
+     "startMs": 3605,
+     "endMs": 3892,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "$15 off your first plan",
+   "line": "There's a free plan. And new users who upgrade through our link get fifteen dollars off. Terms apply.",
+   "frames": 170,
+   "captions": [
+    {
+     "text": " There's",
+     "startMs": 400,
+     "endMs": 751,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 751,
+     "endMs": 838,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " free",
+     "startMs": 838,
+     "endMs": 1058,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " plan.",
+     "startMs": 1058,
+     "endMs": 1321,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " And",
+     "startMs": 1321,
+     "endMs": 1496,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " new",
+     "startMs": 1496,
+     "endMs": 1671,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " users",
+     "startMs": 1671,
+     "endMs": 1934,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " who",
+     "startMs": 1934,
+     "endMs": 2110,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " upgrade",
+     "startMs": 2110,
+     "endMs": 2460,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " through",
+     "startMs": 2460,
+     "endMs": 2811,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " our",
+     "startMs": 2811,
+     "endMs": 2986,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " link",
+     "startMs": 2986,
+     "endMs": 3206,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " get",
+     "startMs": 3206,
+     "endMs": 3381,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " fifteen",
+     "startMs": 3381,
+     "endMs": 3732,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " dollars",
+     "startMs": 3732,
+     "endMs": 4082,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " off.",
+     "startMs": 4082,
+     "endMs": 4302,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Terms",
+     "startMs": 4302,
+     "endMs": 4565,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " apply.",
+     "startMs": 4565,
+     "endMs": 4871,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "TradingView",
+   "line": "Link in the bio, and on Telegram.",
+   "frames": 141,
+   "captions": [
+    {
+     "text": " Link",
+     "startMs": 400,
+     "endMs": 619,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " in",
+     "startMs": 619,
+     "endMs": 750,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 750,
+     "endMs": 925,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " bio,",
+     "startMs": 925,
+     "endMs": 1144,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 1144,
+     "endMs": 1319,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " on",
+     "startMs": 1319,
+     "endMs": 1450,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Telegram.",
+     "startMs": 1450,
+     "endMs": 1888,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  }
+ ],
+ "total": 742
+}

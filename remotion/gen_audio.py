@@ -38,6 +38,13 @@ VIDEOS = {
   ("Short. Clear. Sourced.", "Short, clear, and sourced. No hype, and no get rich quick.", 0.6),
   ("Find us everywhere", "Find us on Telegram, Instagram, Facebook, X, Threads, Bluesky, and LinkedIn.", 0.6),
   ("Follow", "Follow Kreeto Edga News. Join our Telegram channel today.", 2.6, "Follow Krito Edga News. Join our Telegram channel today."),
+ ],
+ "tradingview": [
+  ("Charts traders love", "Millions of traders use the same charting platform. TradingView.", 0.6),
+  ("Indicators & tools", "Hundreds of indicators, drawing tools, and multi chart layouts, for crypto, stocks, forex, and gold.", 0.6),
+  ("Price alerts", "Set price alerts, and get notified on your phone, even when you're away.", 0.6),
+  ("$15 off your first plan", "There's a free plan. And new users who upgrade through our link get fifteen dollars off. Terms apply.", 0.8),
+  ("TradingView", "Link in the bio, and on Telegram.", 2.8),
  ]}
 def synth(t):
     import io

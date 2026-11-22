@@ -13,13 +13,13 @@ const ORANGE = "#F7A600";
 const RED = "#F6465D";
 const cl = { extrapolateLeft: "clamp", extrapolateRight: "clamp" } as const;
 const ease = Easing.bezier(0.16, 1, 0.3, 1);
-const inAt = (f: number, s: number, dy = 40) => ({
+export const inAt = (f: number, s: number, dy = 40) => ({
   opacity: interpolate(f, [s, s + 10], [0, 1], cl),
   translate: interpolate(f, [s, s + 16], [`0px ${dy}px`, "0px 0px"], { ...cl, easing: ease }),
 });
 
 /* ---------- background: drifting candlestick chart ---------- */
-const candles = (() => {
+export const candles = (() => {
   const out: { o: number; c: number; h: number; l: number }[] = [];
   let p = 0.5;
   for (let i = 0; i < 160; i++) {
@@ -31,12 +31,12 @@ const candles = (() => {
   return out;
 })();
 
-const ByBackground: React.FC = () => {
+export const ByBackground: React.FC<{ glow?: string; bg?: string }> = ({ glow = "rgba(247,166,0,0.16)", bg = "linear-gradient(175deg, #0b0e14 0%, #121826 60%, #17161f 100%)" }) => {
   const f = useCurrentFrame();
   const w = 34;
   const off = (f * 1.6) % (w * 160);
   return (
-    <AbsoluteFill style={{ background: "linear-gradient(175deg, #0b0e14 0%, #121826 60%, #17161f 100%)" }}>
+    <AbsoluteFill style={{ background: bg }}>
       <svg width={1080} height={1920} style={{ position: "absolute", opacity: 0.22 }}>
         {[...Array(12)].map((_, i) => (
           <line key={i} x1={0} x2={1080} y1={160 * i} y2={160 * i} stroke="#ffffff" strokeOpacity={0.06} />
@@ -62,14 +62,14 @@ const ByBackground: React.FC = () => {
           borderRadius: "50%",
           left: 40 + Math.sin(f / 80) * 100,
           top: 300,
-          background: "radial-gradient(circle, rgba(247,166,0,0.16) 0%, rgba(247,166,0,0) 65%)",
+          background: `radial-gradient(circle, ${glow} 0%, rgba(0,0,0,0) 65%)`,
         }}
       />
     </AbsoluteFill>
   );
 };
 
-const PhoneFrame: React.FC<{ children: React.ReactNode; top?: number; enterAt?: number }> = ({ children, top = 470, enterAt = 0 }) => {
+export const PhoneFrame: React.FC<{ children: React.ReactNode; top?: number; enterAt?: number }> = ({ children, top = 470, enterAt = 0 }) => {
   const f = useCurrentFrame();
   return (
     <div
