@@ -31,6 +31,13 @@ VIDEOS = {
   ("MT5 tools", "You get M T 5 charts, indicators, and expert advisors.", 0.6),
   ("Leveraged CFDs", "Remember, these are leveraged C F Ds. You can lose money fast. Not available in the E E A, U K, or U S.", 0.9),
   ("Sign up with code", "Sign up with our link. It's in the bio, and on Telegram.", 2.6),
+ ],
+ "promo": [
+  ("Markets move fast.", "Markets move fast. Don't miss what matters.", 0.6),
+  ("Every day you get", "Every day: crypto news, a morning economy brief, and a nightly market wrap.", 0.6),
+  ("Short. Clear. Sourced.", "Short, clear, and sourced. No hype, and no get rich quick.", 0.6),
+  ("Find us everywhere", "Find us on Telegram, Instagram, Facebook, X, Threads, Bluesky, and LinkedIn.", 0.6),
+  ("Follow", "Follow Kreeto Edga News. Join our Telegram channel today.", 2.6, "Follow Krito Edga News. Join our Telegram channel today."),
  ]}
 def synth(t):
     import io
@@ -65,14 +72,16 @@ def music(n):
 for name,scenes in VIDEOS.items():
     if len(sys.argv)>1 and sys.argv[1] not in (name,'all'): continue
     voice=[]; meta=[]; cur=0.4
-    for head,line,tail in scenes:
+    for sc_ in scenes:
+        head,line,tail=sc_[:3]; disp=sc_[3] if len(sc_)>3 else line
         a=synth(line); dur=len(a)/SR
-        words=line.split(); w=[len(x)+1 for x in words]; tot=sum(w); acc=0; caps=[]
+        words=disp.split(); assert len(words)==len(line.split())
+        words_sp=line.split(); w=[len(x)+1 for x in words_sp]; tot=sum(w); acc=0; caps=[]
         for x,ww in zip(words,w):
             s=dur*acc/tot; acc+=ww; e=dur*acc/tot
             caps.append({"text":" "+x,"startMs":round((0.4+s)*1000),"endMs":round((0.4+e)*1000),"timestampMs":None,"confidence":None})
         sc=0.4+dur+tail; frames=int(round(sc*FPS))
-        meta.append({"headline":head,"line":line,"frames":frames,"captions":caps})
+        meta.append({"headline":head,"line":disp,"frames":frames,"captions":caps})
         voice.append((cur,a)); cur+=frames/FPS
     n=int(cur*SR)+SR; mix=np.zeros(n,np.float32)
     for st,a in voice: s=int(st*SR); mix[s:s+len(a)]+=a*0.9

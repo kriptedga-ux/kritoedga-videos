@@ -1,6 +1,7 @@
 import { Composition } from "remotion";
 import { TangemVideo, totalFrames } from "./TangemVideo";
 import { BybitVideo, bybitFrames } from "./BybitVideo";
+import { PromoVideo, promoFrames } from "./PromoVideo";
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -25,6 +26,7 @@ export const RemotionRoot: React.FC = () => {
       />
       <Composition id="BybitSignup" component={BybitVideo} durationInFrames={bybitFrames("signup")} fps={30} width={1080} height={1920} defaultProps={{ kind: "signup" as const }} />
       <Composition id="BybitTradfi" component={BybitVideo} durationInFrames={bybitFrames("tradfi")} fps={30} width={1080} height={1920} defaultProps={{ kind: "tradfi" as const }} />
+      <Composition id="Promo" component={PromoVideo} durationInFrames={promoFrames} fps={30} width={1080} height={1920} />
     </>
   );
 };

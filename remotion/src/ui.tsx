@@ -55,7 +55,7 @@ export const Background: React.FC = () => {
   );
 };
 
-export const Header: React.FC = () => (
+export const Header: React.FC<{ ad?: boolean }> = ({ ad = true }) => (
   <AbsoluteFill>
     <div style={{ position: "absolute", left: 60, top: 70, display: "flex", alignItems: "center", gap: 22 }}>
       <Img src={staticFile("logo.png")} style={{ width: 104, height: 104, borderRadius: 52 }} />
@@ -63,7 +63,7 @@ export const Header: React.FC = () => (
         KRITO EDGA NEWS
       </div>
     </div>
-    <div
+    {ad ? <div
       style={{
         position: "absolute",
         right: 60,
@@ -78,7 +78,7 @@ export const Header: React.FC = () => (
       }}
     >
       #ad
-    </div>
+    </div> : null}
   </AbsoluteFill>
 );
 

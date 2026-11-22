@@ -1,0 +1,397 @@
+{
+ "scenes": [
+  {
+   "headline": "Markets move fast.",
+   "line": "Markets move fast. Don't miss what matters.",
+   "frames": 93,
+   "captions": [
+    {
+     "text": " Markets",
+     "startMs": 400,
+     "endMs": 779,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " move",
+     "startMs": 779,
+     "endMs": 1016,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " fast.",
+     "startMs": 1016,
+     "endMs": 1301,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Don't",
+     "startMs": 1301,
+     "endMs": 1586,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " miss",
+     "startMs": 1586,
+     "endMs": 1823,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " what",
+     "startMs": 1823,
+     "endMs": 2060,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " matters.",
+     "startMs": 2060,
+     "endMs": 2487,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "Every day you get",
+   "line": "Every day: crypto news, a morning economy brief, and a nightly market wrap.",
+   "frames": 141,
+   "captions": [
+    {
+     "text": " Every",
+     "startMs": 400,
+     "endMs": 693,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " day:",
+     "startMs": 693,
+     "endMs": 937,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " crypto",
+     "startMs": 937,
+     "endMs": 1279,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " news,",
+     "startMs": 1279,
+     "endMs": 1571,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 1571,
+     "endMs": 1669,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " morning",
+     "startMs": 1669,
+     "endMs": 2060,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " economy",
+     "startMs": 2060,
+     "endMs": 2450,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " brief,",
+     "startMs": 2450,
+     "endMs": 2792,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 2792,
+     "endMs": 2987,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 2987,
+     "endMs": 3084,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " nightly",
+     "startMs": 3084,
+     "endMs": 3475,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " market",
+     "startMs": 3475,
+     "endMs": 3817,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " wrap.",
+     "startMs": 3817,
+     "endMs": 4109,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "Short. Clear. Sourced.",
+   "line": "Short, clear, and sourced. No hype, and no get rich quick.",
+   "frames": 115,
+   "captions": [
+    {
+     "text": " Short,",
+     "startMs": 400,
+     "endMs": 735,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " clear,",
+     "startMs": 735,
+     "endMs": 1070,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 1070,
+     "endMs": 1262,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " sourced.",
+     "startMs": 1262,
+     "endMs": 1692,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " No",
+     "startMs": 1692,
+     "endMs": 1836,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " hype,",
+     "startMs": 1836,
+     "endMs": 2123,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 2123,
+     "endMs": 2315,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " no",
+     "startMs": 2315,
+     "endMs": 2458,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " get",
+     "startMs": 2458,
+     "endMs": 2650,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " rich",
+     "startMs": 2650,
+     "endMs": 2889,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " quick.",
+     "startMs": 2889,
+     "endMs": 3224,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "Find us everywhere",
+   "line": "Find us on Telegram, Instagram, Facebook, X, Threads, Bluesky, and LinkedIn.",
+   "frames": 144,
+   "captions": [
+    {
+     "text": " Find",
+     "startMs": 400,
+     "endMs": 647,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " us",
+     "startMs": 647,
+     "endMs": 795,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " on",
+     "startMs": 795,
+     "endMs": 943,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Telegram,",
+     "startMs": 943,
+     "endMs": 1436,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Instagram,",
+     "startMs": 1436,
+     "endMs": 1978,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Facebook,",
+     "startMs": 1978,
+     "endMs": 2472,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " X,",
+     "startMs": 2472,
+     "endMs": 2620,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Threads,",
+     "startMs": 2620,
+     "endMs": 3064,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Bluesky,",
+     "startMs": 3064,
+     "endMs": 3507,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 3507,
+     "endMs": 3705,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " LinkedIn.",
+     "startMs": 3705,
+     "endMs": 4198,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "Follow",
+   "line": "Follow Krito Edga News. Join our Telegram channel today.",
+   "frames": 171,
+   "captions": [
+    {
+     "text": " Follow",
+     "startMs": 400,
+     "endMs": 727,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Krito",
+     "startMs": 727,
+     "endMs": 1055,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Edga",
+     "startMs": 1055,
+     "endMs": 1289,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " News.",
+     "startMs": 1289,
+     "endMs": 1570,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Join",
+     "startMs": 1570,
+     "endMs": 1803,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " our",
+     "startMs": 1803,
+     "endMs": 1991,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Telegram",
+     "startMs": 1991,
+     "endMs": 2412,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " channel",
+     "startMs": 2412,
+     "endMs": 2786,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " today.",
+     "startMs": 2786,
+     "endMs": 3113,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  }
+ ],
+ "total": 664
+}
