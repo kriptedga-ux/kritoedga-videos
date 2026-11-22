@@ -1,0 +1,495 @@
+{
+ "scenes": [
+  {
+   "headline": "One account. More markets.",
+   "line": "One account. More markets. Bybit Global lets you trade traditional markets on MetaTrader 5.",
+   "frames": 160,
+   "captions": [
+    {
+     "text": " One",
+     "startMs": 400,
+     "endMs": 588,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " account.",
+     "startMs": 588,
+     "endMs": 1010,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " More",
+     "startMs": 1010,
+     "endMs": 1245,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " markets.",
+     "startMs": 1245,
+     "endMs": 1667,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Bybit",
+     "startMs": 1667,
+     "endMs": 1949,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Global",
+     "startMs": 1949,
+     "endMs": 2277,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " lets",
+     "startMs": 2277,
+     "endMs": 2512,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " you",
+     "startMs": 2512,
+     "endMs": 2699,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " trade",
+     "startMs": 2699,
+     "endMs": 2981,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " traditional",
+     "startMs": 2981,
+     "endMs": 3544,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " markets",
+     "startMs": 3544,
+     "endMs": 3920,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " on",
+     "startMs": 3920,
+     "endMs": 4060,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " MetaTrader",
+     "startMs": 4060,
+     "endMs": 4577,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 5.",
+     "startMs": 4577,
+     "endMs": 4717,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "Trade with USDT",
+   "line": "Gold, forex, indices and U S stocks, funded with U S D T from your Bybit account.",
+   "frames": 171,
+   "captions": [
+    {
+     "text": " Gold,",
+     "startMs": 400,
+     "endMs": 743,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " forex,",
+     "startMs": 743,
+     "endMs": 1144,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " indices",
+     "startMs": 1144,
+     "endMs": 1601,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 1601,
+     "endMs": 1830,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " US",
+     "startMs": 1830,
+     "endMs": 2059,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " stocks,",
+     "startMs": 2059,
+     "endMs": 2517,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " funded",
+     "startMs": 2517,
+     "endMs": 2917,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " with",
+     "startMs": 2917,
+     "endMs": 3203,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " USDT",
+     "startMs": 3203,
+     "endMs": 3661,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " from",
+     "startMs": 3661,
+     "endMs": 3947,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " your",
+     "startMs": 3947,
+     "endMs": 4233,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Bybit",
+     "startMs": 4233,
+     "endMs": 4576,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " account.",
+     "startMs": 4576,
+     "endMs": 5091,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "MT5 tools",
+   "line": "You get M T 5 charts, indicators, and expert advisors.",
+   "frames": 108,
+   "captions": [
+    {
+     "text": " You",
+     "startMs": 400,
+     "endMs": 589,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " get",
+     "startMs": 589,
+     "endMs": 777,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " MT5",
+     "startMs": 777,
+     "endMs": 1060,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " charts,",
+     "startMs": 1060,
+     "endMs": 1437,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " indicators,",
+     "startMs": 1437,
+     "endMs": 2003,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 2003,
+     "endMs": 2191,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " expert",
+     "startMs": 2191,
+     "endMs": 2521,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " advisors.",
+     "startMs": 2521,
+     "endMs": 2992,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "Leveraged CFDs",
+   "line": "Remember, these are leveraged C F Ds. You can lose money fast. Not available in the E E A, U K, or U S.",
+   "frames": 230,
+   "captions": [
+    {
+     "text": " Remember,",
+     "startMs": 400,
+     "endMs": 1011,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " these",
+     "startMs": 1011,
+     "endMs": 1378,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " are",
+     "startMs": 1378,
+     "endMs": 1622,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " leveraged",
+     "startMs": 1622,
+     "endMs": 2233,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " CFDs.",
+     "startMs": 2233,
+     "endMs": 2722,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " You",
+     "startMs": 2722,
+     "endMs": 2966,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " can",
+     "startMs": 2966,
+     "endMs": 3210,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " lose",
+     "startMs": 3210,
+     "endMs": 3516,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " money",
+     "startMs": 3516,
+     "endMs": 3882,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " fast.",
+     "startMs": 3882,
+     "endMs": 4249,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Not",
+     "startMs": 4249,
+     "endMs": 4493,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " available",
+     "startMs": 4493,
+     "endMs": 5104,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " in",
+     "startMs": 5104,
+     "endMs": 5288,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 5288,
+     "endMs": 5532,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " EEA,",
+     "startMs": 5532,
+     "endMs": 5960,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " UK,",
+     "startMs": 5960,
+     "endMs": 6265,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " or",
+     "startMs": 6265,
+     "endMs": 6448,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " US.",
+     "startMs": 6448,
+     "endMs": 6754,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "Sign up with code",
+   "line": "Sign up with our link. It's in the bio, and on Telegram.",
+   "frames": 161,
+   "captions": [
+    {
+     "text": " Sign",
+     "startMs": 400,
+     "endMs": 607,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " up",
+     "startMs": 607,
+     "endMs": 732,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " with",
+     "startMs": 732,
+     "endMs": 939,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " our",
+     "startMs": 939,
+     "endMs": 1104,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " link.",
+     "startMs": 1104,
+     "endMs": 1353,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " It's",
+     "startMs": 1353,
+     "endMs": 1560,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " in",
+     "startMs": 1560,
+     "endMs": 1685,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 1685,
+     "endMs": 1850,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " bio,",
+     "startMs": 1850,
+     "endMs": 2058,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 2058,
+     "endMs": 2223,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " on",
+     "startMs": 2223,
+     "endMs": 2348,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Telegram.",
+     "startMs": 2348,
+     "endMs": 2762,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  }
+ ],
+ "total": 830
+}

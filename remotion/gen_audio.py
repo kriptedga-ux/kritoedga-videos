@@ -17,6 +17,20 @@ VIDEOS = {
   ("Tap to sign", "Just tap the card to your phone to sign. No cables, no battery.", 0.6),
   ("2 or 3 cards in a set", "A set has two or three cards, so you can keep a backup in a separate place.", 0.6),
   ("10% off with our link", "Get ten percent off with our link. It's in the bio, and on Telegram.", 2.6),
+ ],
+ "bybit_signup": [
+  ("New to crypto?", "New to crypto? Here's how to get started on Bybit, in three simple steps.", 0.6),
+  ("Sign up", "Step one. Sign up with our link. The referral code is already filled in.", 0.6),
+  ("Verify your ID", "Step two. Verify your identity. It usually takes just a few minutes.", 0.6),
+  ("Explore rewards", "Step three. Check the new user rewards. Conditions apply.", 0.6),
+  ("Pick your Bybit", "In Europe, use Bybit E U. Everywhere else, use Bybit Global. Both links are in the bio.", 2.6),
+ ],
+ "bybit_tradfi": [
+  ("One account. More markets.", "One account. More markets. Bybit Global lets you trade traditional markets on MetaTrader 5.", 0.6),
+  ("Trade with USDT", "Gold, forex, indices and U S stocks, funded with U S D T from your Bybit account.", 0.6),
+  ("MT5 tools", "You get M T 5 charts, indicators, and expert advisors.", 0.6),
+  ("Leveraged CFDs", "Remember, these are leveraged C F Ds. You can lose money fast. Not available in the E E A, U K, or U S.", 0.9),
+  ("Sign up with code", "Sign up with our link. It's in the bio, and on Telegram.", 2.6),
  ]}
 def synth(t):
     import io

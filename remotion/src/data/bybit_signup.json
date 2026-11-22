@@ -1,0 +1,495 @@
+{
+ "scenes": [
+  {
+   "headline": "New to crypto?",
+   "line": "New to crypto? Here's how to get started on Bybit, in three simple steps.",
+   "frames": 130,
+   "captions": [
+    {
+     "text": " New",
+     "startMs": 400,
+     "endMs": 581,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " to",
+     "startMs": 581,
+     "endMs": 716,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " crypto?",
+     "startMs": 716,
+     "endMs": 1078,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Here's",
+     "startMs": 1078,
+     "endMs": 1395,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " how",
+     "startMs": 1395,
+     "endMs": 1575,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " to",
+     "startMs": 1575,
+     "endMs": 1711,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " get",
+     "startMs": 1711,
+     "endMs": 1892,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " started",
+     "startMs": 1892,
+     "endMs": 2253,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " on",
+     "startMs": 2253,
+     "endMs": 2389,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Bybit,",
+     "startMs": 2389,
+     "endMs": 2706,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " in",
+     "startMs": 2706,
+     "endMs": 2841,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " three",
+     "startMs": 2841,
+     "endMs": 3112,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " simple",
+     "startMs": 3112,
+     "endMs": 3429,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " steps.",
+     "startMs": 3429,
+     "endMs": 3745,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "Sign up",
+   "line": "Step one. Sign up with our link. The referral code is already filled in.",
+   "frames": 137,
+   "captions": [
+    {
+     "text": " Step",
+     "startMs": 400,
+     "endMs": 645,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " one.",
+     "startMs": 645,
+     "endMs": 890,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Sign",
+     "startMs": 890,
+     "endMs": 1135,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " up",
+     "startMs": 1135,
+     "endMs": 1282,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " with",
+     "startMs": 1282,
+     "endMs": 1527,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " our",
+     "startMs": 1527,
+     "endMs": 1722,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " link.",
+     "startMs": 1722,
+     "endMs": 2016,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " The",
+     "startMs": 2016,
+     "endMs": 2212,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " referral",
+     "startMs": 2212,
+     "endMs": 2653,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " code",
+     "startMs": 2653,
+     "endMs": 2898,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " is",
+     "startMs": 2898,
+     "endMs": 3045,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " already",
+     "startMs": 3045,
+     "endMs": 3437,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " filled",
+     "startMs": 3437,
+     "endMs": 3780,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " in.",
+     "startMs": 3780,
+     "endMs": 3975,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "Verify your ID",
+   "line": "Step two. Verify your identity. It usually takes just a few minutes.",
+   "frames": 137,
+   "captions": [
+    {
+     "text": " Step",
+     "startMs": 400,
+     "endMs": 657,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " two.",
+     "startMs": 657,
+     "endMs": 915,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Verify",
+     "startMs": 915,
+     "endMs": 1275,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " your",
+     "startMs": 1275,
+     "endMs": 1533,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " identity.",
+     "startMs": 1533,
+     "endMs": 2048,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " It",
+     "startMs": 2048,
+     "endMs": 2202,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " usually",
+     "startMs": 2202,
+     "endMs": 2614,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " takes",
+     "startMs": 2614,
+     "endMs": 2923,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " just",
+     "startMs": 2923,
+     "endMs": 3181,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 3181,
+     "endMs": 3284,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " few",
+     "startMs": 3284,
+     "endMs": 3490,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " minutes.",
+     "startMs": 3490,
+     "endMs": 3953,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "Explore rewards",
+   "line": "Step three. Check the new user rewards. Conditions apply.",
+   "frames": 117,
+   "captions": [
+    {
+     "text": " Step",
+     "startMs": 400,
+     "endMs": 651,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " three.",
+     "startMs": 651,
+     "endMs": 1003,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Check",
+     "startMs": 1003,
+     "endMs": 1305,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 1305,
+     "endMs": 1506,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " new",
+     "startMs": 1506,
+     "endMs": 1707,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " user",
+     "startMs": 1707,
+     "endMs": 1958,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " rewards.",
+     "startMs": 1958,
+     "endMs": 2410,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Conditions",
+     "startMs": 2410,
+     "endMs": 2963,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " apply.",
+     "startMs": 2963,
+     "endMs": 3315,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  },
+  {
+   "headline": "Pick your Bybit",
+   "line": "In Europe, use Bybit E U. Everywhere else, use Bybit Global. Both links are in the bio.",
+   "frames": 227,
+   "captions": [
+    {
+     "text": " In",
+     "startMs": 400,
+     "endMs": 556,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Europe,",
+     "startMs": 556,
+     "endMs": 972,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " use",
+     "startMs": 972,
+     "endMs": 1180,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Bybit",
+     "startMs": 1180,
+     "endMs": 1492,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " EU.",
+     "startMs": 1492,
+     "endMs": 1752,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Everywhere",
+     "startMs": 1752,
+     "endMs": 2324,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " else,",
+     "startMs": 2324,
+     "endMs": 2636,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " use",
+     "startMs": 2636,
+     "endMs": 2844,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Bybit",
+     "startMs": 2844,
+     "endMs": 3156,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Global.",
+     "startMs": 3156,
+     "endMs": 3572,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Both",
+     "startMs": 3572,
+     "endMs": 3832,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " links",
+     "startMs": 3832,
+     "endMs": 4144,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " are",
+     "startMs": 4144,
+     "endMs": 4352,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " in",
+     "startMs": 4352,
+     "endMs": 4508,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 4508,
+     "endMs": 4716,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " bio.",
+     "startMs": 4716,
+     "endMs": 4976,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ]
+  }
+ ],
+ "total": 748
+}
